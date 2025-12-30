@@ -1,4 +1,4 @@
-# human-faces-dataset-multiple-images
+# Human Faces dataset: Multiple Images and Videos per Person
 1,000+ people, 10,000+ files: 8 photos per person + 2 videos
 ## You can find a full sample of this dataset on [Kaggle](https://www.kaggle.com/datasets/axondata/face-recognition-dataset-selfies-videos)
 
